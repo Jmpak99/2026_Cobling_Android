@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">CoblingApp</string>
+
+    <!-- Auth -->
+    <string name="error_empty_email">이메일을 입력해주세요</string>
+    <string name="msg_reset_email_sent">비밀번호 재설정 메일이 전송되었습니다.</string>
+
+    <!-- Settings -->
+    <string name="title_inquiry">문의하기</string>
+    <string name="title_opensource">오픈소스 라이선스</string>
+    <string name="title_terms">이용약관</string>
+    <string name="title_privacy">개인정보 처리방침</string>
+    <string name="msg_inquiry_guide">문의 사항은 아래 메일로 보내주세요.\n\nsupport@cobling.com</string>
+    <string name="msg_ready">준비 중입니다.</string>
+    <string name="version_format">현재 버전: %s</string>
+
+    <!-- Ranking -->
+    <string name="rank_name_1">코블링킹</string>
+    <string name="rank_name_2">안드마스터</string>
+    <string name="rank_name_3">열공코딩</string>
+    <string name="rank_name_4">코블링팬</string>
+    <string name="rank_name_5">자바고수</string>
+    <string name="rank_xp_format">%s XP</string>
+    <string name="my_ranking_guide">내 랭킹 확인하기</string>
+
+    <!-- Journal / Badge -->
+    <string name="title_badge">배지</string>
+    <string name="subtitle_all_badges">모든 배지</string>
+    <string name="badge_name_run">달려볼까</string>
+    <string name="badge_desc_run">하루의 10개 퀘스트 완료\n정말 멋진 질주였어요!</string>
+    <string name="unknown_badge">\???</string>
+    <string name="badge_desc_locked">새벽 5-7시 사이에\n미션을 깨면 획득할 수 있어요</string>
+
+    <!-- Quest -->
+    <string name="title_quest">퀘스트</string>
+    <string name="quest_chapter_1">잠든 알의 속삭임</string>
+    <string name="quest_desc_1">깨어날 시간이에요, 코블링</string>
+    <string name="quest_chapter_2">코블링의 첫 걸음</string>
+    <string name="quest_desc_2">난 할수있어, 함께 나아가요</string>
+
+    <string name="quest_detail_subheader">코블링의 퀘스트</string>
+    <string name="quest_detail_desc">코블링과 함께 30일 미션을 해결해보아요!</string>
+    <string name="quest_sub_title">잠든 알의 속삭임</string>
+    <string name="quest_sub_desc">무언가 들릴거에요. 알 속에서 소리가 나요</string>
+</resources>

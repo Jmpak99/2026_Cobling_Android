@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 기본 배경/전경 -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- 앱 주요 색상 -->
+    <color name="cobling_yellow">#FFFFD475</color>       <!-- 주 포인트 색 -->
+    <color name="cobling_green">#FF6B8F5D</color>        <!-- 버튼/액션 -->
+    <color name="cobling_light_bg">#FFFFF2DC</color>     <!-- 게임맵 배경 -->
+    <color name="cobling_cream">#FFFFF7E9</color>        <!-- 카드 배경 -->
+    <color name="cobling_beige">#FFE9E8DD</color>        <!-- 보조 버튼 -->
+
+    <!-- 퀘스트 챕터 배경 -->
+    <color name="chapter_1_bg">#FFF5E6CA</color>
+    <color name="chapter_2_bg">#FFCAE6F5</color>
+    <color name="chapter_3_bg">#FFCAF5D4</color>
+    <color name="chapter_4_bg">#FFF5CAF0</color>
+    <color name="chapter_5_bg">#FFFFF0CA</color>
+    <color name="chapter_default_bg">#FFEDEBE5</color>
+
+    <!-- 블록 색상 -->
+    <color name="block_repeat_tint">#FF86B0FF</color>    <!-- 반복 블록 -->
+    <color name="block_if_tint">#FF4CCB7A</color>        <!-- 조건 블록 -->
+
+    <!-- 게임 버튼 -->
+    <color name="play_green">#FF58ED98</color>
+    <color name="stop_red">#FFE85A5A</color>
+
+    <!-- 상태 색상 -->
+    <color name="success_bg">#FFE8F5E9</color>
+    <color name="error_red">#FFFF0000</color>
+    <color name="gray_light">#FFF5F5F5</color>
+    <color name="gray_medium">#FFE0E0E0</color>
+    <color name="gray_text">#FF9E9E9E</color>
+    <color name="divider">#1A000000</color>
+
+    <!-- Material Theme -->
+    <color name="md_theme_light_primary">#FF6B8F5D</color>
+    <color name="md_theme_light_onPrimary">#FFFFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#FFD0E8C0</color>
+    <color name="md_theme_light_onPrimaryContainer">#FF1A2E10</color>
+    <color name="md_theme_light_secondary">#FFFFD475</color>
+    <color name="md_theme_light_onSecondary">#FF3A2800</color>
+    <color name="md_theme_light_background">#FFFFFFFF</color>
+    <color name="md_theme_light_onBackground">#FF1C1B1F</color>
+    <color name="md_theme_light_surface">#FFFFFFFF</color>
+    <color name="md_theme_light_onSurface">#FF1C1B1F</color>
+    <color name="md_theme_light_error">#FFB3261E</color>
+    <color name="md_theme_light_onError">#FFFFFFFF</color>
+
+    <color name="md_theme_dark_primary">#FFADD6A0</color>
+    <color name="md_theme_dark_onPrimary">#FF1E3B14</color>
+    <color name="md_theme_dark_primaryContainer">#FF355228</color>
+    <color name="md_theme_dark_onPrimaryContainer">#FFD0E8C0</color>
+    <color name="md_theme_dark_secondary">#FFFFCB65</color>
+    <color name="md_theme_dark_onSecondary">#FF3A2800</color>
+    <color name="md_theme_dark_background">#FF1C1B1F</color>
+    <color name="md_theme_dark_onBackground">#FFE6E1E5</color>
+    <color name="md_theme_dark_surface">#FF1C1B1F</color>
+    <color name="md_theme_dark_onSurface">#FFE6E1E5</color>
+    <color name="md_theme_dark_error">#FFF2B8B5</color>
+    <color name="md_theme_dark_onError">#FF601410</color>
+</resources>

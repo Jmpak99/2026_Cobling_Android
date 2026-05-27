@@ -1,0 +1,38 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local config
+local.properties
+
+# Android generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# APK / AAB
+*.apk
+*.aab
+*.ap_
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Firebase
+google-services.json
+app/google-services.json
+
+# Signing keys
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
